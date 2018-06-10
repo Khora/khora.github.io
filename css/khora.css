@@ -46,6 +46,10 @@ body {
   font-weight: bold;
 }
 
+#header{
+  display: inline;
+}
+
 .full{
   width: 100%;
   text-align: center;
