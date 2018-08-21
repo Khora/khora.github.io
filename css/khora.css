@@ -33,7 +33,7 @@ body {
   margin: 0px auto;
 }
 #content>p{
-  padding-bottom:30px;
+  /* padding-bottom:30px; */
 }
 #content>img{
   padding-bottom:30px;
